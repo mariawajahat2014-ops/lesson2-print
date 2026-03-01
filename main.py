@@ -1,0 +1,5 @@
+print("My name is maria")
+print("I study in class 6")
+print("I love to crochet")
+print("My favourite colour is purple")
+print("I love to discover")
